@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Devin |  "${VERSION}" | $1210 |
 | Devin |  Rocks | $1210 |
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |

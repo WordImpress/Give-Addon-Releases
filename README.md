@@ -1,7 +1,7 @@
 ## Give Add-on Releases
 
 | Add-on   |      Release Date |  Version |
-|:----------|:-------------:|------:|
+|:----------|:-------------:|------:|| Devin |   | 210 |
 | Devin |  "$VERSION" | $1210 |
 | Devin |  "${VERSION}" | $1210 |
 | Devin |  Rocks | $1210 |

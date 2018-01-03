@@ -2,5 +2,6 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Devin | Give-Fee-Recovery | `1.3.7` |
 | Devin |  "$VERSION" | $1210 |
 | Devin |  "$VERSION" | $1210 |

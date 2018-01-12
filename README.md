@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-americloud-payments | 01-12-2018 @ 19:43 | `1.2.1` |
 | Give-Recurring-Donations | 01-12-2018 @ 19:35 | `1.5.4` |
 | Give-GoCardless | 01-12-2018 @ 19:16 | `1.1.1` |
 | Give-PDF-Receipts | 01-09-2018 @ 23:10 | `2.2.3` |

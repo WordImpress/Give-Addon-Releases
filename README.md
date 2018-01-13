@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 01-13-2018 @ 02:27 | `1.3.8` |
 | give-americloud-payments | 01-12-2018 @ 19:43 | `1.2.1` |
 | Give-Recurring-Donations | 01-12-2018 @ 19:35 | `1.5.4` |
 | Give-GoCardless | 01-12-2018 @ 19:16 | `1.1.1` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 01-17-2018 @ 21:54 | `1.4` |
 | Give-Manual-Donations | 01-17-2018 @ 21:39 | `1.3` |
 | Give-Form-Field-Manager | 01-17-2018 @ 20:59 | `1.2.5` |
 | Give-Authorize-Gateway | 01-17-2018 @ 01:06 | `1.3.3` |

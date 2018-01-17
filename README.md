@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Email-Reports | 01-17-2018 @ 23:07 | `1.1` |
 | Give-PDF-Receipts | 01-17-2018 @ 22:44 | `2.2.4` |
 | Give-Tributes | 01-17-2018 @ 22:06 | `1.3.5` |
 | Give-Fee-Recovery | 01-17-2018 @ 21:54 | `1.4` |

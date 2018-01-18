@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Tributes | 01-18-2018 @ 20:40 | `1.3.6` |
 | Give-PayFast | 01-18-2018 @ 05:55 | `1.0` |
 | Give-Per-Form-Emails | 01-17-2018 @ 23:33 | `1.1` |
 | Give-Email-Reports | 01-17-2018 @ 23:07 | `1.1` |

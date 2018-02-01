@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Tributes | 02-01-2018 @ 02:21 | `1.4` |
 | Give-Manual-Donations | 01-30-2018 @ 02:46 | `1.3.1` |
 | Give-Sofort | 01-28-2018 @ 08:15 | `1.0` |
 | Give-Sofort | 01-28-2018 @ 07:50 | `1.0` |

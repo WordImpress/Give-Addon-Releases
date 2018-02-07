@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-CCAvenue | 02-07-2018 @ 19:08 | `1.0.1` |
 | Give-Recurring-Donations | 02-02-2018 @ 07:52 | `1.5.5` |
 | Give-Tributes | 02-01-2018 @ 02:21 | `1.4` |
 | Give-Manual-Donations | 01-30-2018 @ 02:46 | `1.3.1` |

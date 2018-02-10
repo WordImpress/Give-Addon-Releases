@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-GoCardless | 02-10-2018 @ 03:28 | `1.1.2` |
 | Give-CCAvenue | 02-07-2018 @ 19:08 | `1.0.1` |
 | Give-Recurring-Donations | 02-02-2018 @ 07:52 | `1.5.5` |
 | Give-Tributes | 02-01-2018 @ 02:21 | `1.4` |

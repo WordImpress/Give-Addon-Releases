@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Tributes | 02-16-2018 @ 00:27 | `1.4.1` |
 | Give-Manual-Donations | 02-15-2018 @ 19:55 | `1.3.2` |
 | Give-Google-Analytics | 02-12-2018 @ 20:43 | `1.1.2` |
 | Give-GoCardless | 02-10-2018 @ 03:28 | `1.1.2` |

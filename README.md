@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Tributes | 02-16-2018 @ 19:12 | `1.4.1` |
 | Give-Form-Field-Manager | 02-16-2018 @ 01:08 | `1.2.6` |
 | Give-Tributes | 02-16-2018 @ 00:27 | `1.4.1` |
 | Give-Manual-Donations | 02-15-2018 @ 19:55 | `1.3.2` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Recurring-Donations | 02-21-2018 @ 06:02 | `1.5.7` |
 | Give-Recurring-Donations | 02-20-2018 @ 16:50 | `1.5.7` |
 | Give-Recurring-Donations | 02-20-2018 @ 06:56 | `1.5.6` |
 | Give-Tributes | 02-16-2018 @ 19:12 | `1.4.1` |

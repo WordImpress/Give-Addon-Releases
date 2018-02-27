@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Mollie | 02-27-2018 @ 01:14 | `1.0` |
 | Give-Currency-Switcher | 02-23-2018 @ 19:59 | `1.0.1` |
 | Give-Currency-Switcher | 02-21-2018 @ 21:42 | `1.0.0` |
 | Give-Form-Field-Manager | 02-21-2018 @ 07:31 | `1.2.7` |

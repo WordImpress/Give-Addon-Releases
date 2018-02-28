@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Mollie | 02-28-2018 @ 20:17 | `1.0.2` |
 | Give-Razorpay | 02-28-2018 @ 20:05 | `1.1.3` |
 | Give-Razorpay | 02-28-2018 @ 08:15 | `1.1.2` |
 | Give-Fee-Recovery | 02-28-2018 @ 07:49 | `1.5` |

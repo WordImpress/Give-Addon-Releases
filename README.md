@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 02-28-2018 @ 07:49 | `1.5` |
 | Give-Mollie | 02-27-2018 @ 22:20 | `1.0.1` |
 | Give-Mollie | 02-27-2018 @ 01:14 | `1.0` |
 | Give-Currency-Switcher | 02-23-2018 @ 19:59 | `1.0.1` |

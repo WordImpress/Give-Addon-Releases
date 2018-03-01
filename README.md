@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Currency-Switcher | 03-01-2018 @ 23:40 | `1.0.2` |
 | Give-MailChimp | 03-01-2018 @ 07:20 | `1.4` |
 | Give-Mollie | 02-28-2018 @ 20:17 | `1.0.2` |
 | Give-Razorpay | 02-28-2018 @ 20:05 | `1.1.3` |

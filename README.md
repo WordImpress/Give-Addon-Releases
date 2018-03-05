@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Google-Analytics | 03-05-2018 @ 22:42 | `1.1.3` |
 | Give-Currency-Switcher | 03-01-2018 @ 23:40 | `1.0.2` |
 | Give-MailChimp | 03-01-2018 @ 07:20 | `1.4` |
 | Give-Mollie | 02-28-2018 @ 20:17 | `1.0.2` |

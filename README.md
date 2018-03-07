@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-PDF-Receipts | 03-07-2018 @ 02:23 | `2.2.5` |
 | Give-Form-Field-Manager | 03-05-2018 @ 23:18 | `1.2.8` |
 | Give-Google-Analytics | 03-05-2018 @ 22:42 | `1.1.3` |
 | Give-Currency-Switcher | 03-01-2018 @ 23:40 | `1.0.2` |

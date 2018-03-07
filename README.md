@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Gift-Aid | 03-07-2018 @ 08:30 | `1.1.1` |
 | Give-Braintree-Gateway | 03-07-2018 @ 06:54 | `1.2` |
 | Give-2Checkout | 03-07-2018 @ 04:12 | `1.1` |
 | Give-PDF-Receipts | 03-07-2018 @ 02:23 | `2.2.5` |

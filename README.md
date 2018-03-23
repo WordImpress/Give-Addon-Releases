@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Currency-Switcher | 03-23-2018 @ 21:57 | `1.0.3` |
 | Give-Mollie | 03-21-2018 @ 06:14 | `1.0.3` |
 | Give-Google-Analytics | 03-15-2018 @ 22:02 | `1.1.4` |
 | Give-Gift-Aid | 03-07-2018 @ 08:30 | `1.1.1` |

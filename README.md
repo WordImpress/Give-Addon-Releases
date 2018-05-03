@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-MailChimp | 05-03-2018 @ 06:36 | `1.4.1` |
 | Give-Tributes | 05-03-2018 @ 06:22 | `1.4.2` |
 | Give-Authorize-Gateway | 05-03-2018 @ 05:35 | `1.4` |
 | Give-PDF-Receipts | 05-03-2018 @ 05:22 | `2.3` |

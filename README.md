@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Currency-Switcher | 05-03-2018 @ 19:22 | `1.1` |
 | Give-MailChimp | 05-03-2018 @ 06:36 | `1.4.1` |
 | Give-Tributes | 05-03-2018 @ 06:22 | `1.4.2` |
 | Give-Authorize-Gateway | 05-03-2018 @ 05:35 | `1.4` |

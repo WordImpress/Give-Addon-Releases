@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Form-Field-Manager | 05-03-2018 @ 04:01 | `1.3` |
 | Give-Recurring-Donations | 05-03-2018 @ 03:48 | `1.6` |
 | Give-Zapier | 05-03-2018 @ 03:36 | `1.2` |
 | Give-Currency-Switcher | 03-23-2018 @ 21:57 | `1.0.3` |

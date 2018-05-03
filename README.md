@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-PDF-Receipts | 05-03-2018 @ 05:22 | `2.3` |
 | Give-Manual-Donations | 05-03-2018 @ 05:03 | `1.4` |
 | Give-Mollie | 05-03-2018 @ 04:45 | `1.1` |
 | Give-GoCardless | 05-03-2018 @ 04:23 | `1.2` |

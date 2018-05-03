@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-PayPal-Pro | 05-03-2018 @ 19:33 | `1.1.5` |
 | Give-Currency-Switcher | 05-03-2018 @ 19:22 | `1.1` |
 | Give-MailChimp | 05-03-2018 @ 06:36 | `1.4.1` |
 | Give-Tributes | 05-03-2018 @ 06:22 | `1.4.2` |

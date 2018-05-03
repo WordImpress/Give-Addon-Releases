@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Tributes | 05-03-2018 @ 06:13 | `1.4.2` |
 | Give-Tributes | 05-03-2018 @ 06:08 | `1.4.2` |
 | Give-Authorize-Gateway | 05-03-2018 @ 05:35 | `1.4` |
 | Give-PDF-Receipts | 05-03-2018 @ 05:22 | `2.3` |

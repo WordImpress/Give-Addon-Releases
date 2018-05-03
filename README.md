@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-GoCardless | 05-03-2018 @ 04:23 | `1.2` |
 | Give-Fee-Recovery | 05-03-2018 @ 04:13 | `1.6` |
 | Give-Form-Field-Manager | 05-03-2018 @ 04:01 | `1.3` |
 | Give-Recurring-Donations | 05-03-2018 @ 03:48 | `1.6` |

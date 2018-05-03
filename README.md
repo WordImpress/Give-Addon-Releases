@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Recurring-Donations | 05-03-2018 @ 03:48 | `1.6` |
 | Give-Zapier | 05-03-2018 @ 03:36 | `1.2` |
 | Give-Currency-Switcher | 03-23-2018 @ 21:57 | `1.0.3` |
 | Give-Mollie | 03-21-2018 @ 06:14 | `1.0.3` |

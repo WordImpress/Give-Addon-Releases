@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Mollie | 05-03-2018 @ 04:45 | `1.1` |
 | Give-GoCardless | 05-03-2018 @ 04:23 | `1.2` |
 | Give-Fee-Recovery | 05-03-2018 @ 04:13 | `1.6` |
 | Give-Form-Field-Manager | 05-03-2018 @ 04:01 | `1.3` |

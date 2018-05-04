@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Braintree-Gateway | 05-04-2018 @ 05:36 | `1.2.1` |
 | Give-iATS | 05-04-2018 @ 04:41 | `1.0.3` |
 | Give-ConvertKit | 05-03-2018 @ 21:34 | `1.0.2` |
 | Give-Aweber | 05-03-2018 @ 21:25 | `1.0.3` |

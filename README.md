@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-PayFast | 05-11-2018 @ 19:54 | `1.0.2` |
 | Give-Authorize-Gateway | 05-11-2018 @ 06:08 | `1.4.1` |
 | Give-Stripe | 05-10-2018 @ 16:25 | `2.0.3` |
 | Give-Recurring-Donations | 05-10-2018 @ 16:23 | `1.6.1` |

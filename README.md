@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Zapier | 05-24-2018 @ 04:21 | `1.2.1` |
 | Give-Mollie | 05-22-2018 @ 16:41 | `1.1.1` |
 | Give-Authorize-Gateway | 05-21-2018 @ 15:24 | `1.4.2` |
 | Give-PayFast | 05-11-2018 @ 19:54 | `1.0.2` |

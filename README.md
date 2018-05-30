@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Braintree-Gateway | 05-30-2018 @ 15:55 | `1.2.2` |
 | Give-Gift-Aid | 05-30-2018 @ 03:47 | `1.1.3` |
 | Give-Stripe | 05-24-2018 @ 05:36 | `2.0.4` |
 | Give-Zapier | 05-24-2018 @ 04:21 | `1.2.1` |

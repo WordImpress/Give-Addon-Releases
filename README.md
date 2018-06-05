@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 06-05-2018 @ 19:04 | `1.6.1` |
 | Give-Stripe | 06-05-2018 @ 18:41 | `2.0.5` |
 | Give-Braintree-Gateway | 05-30-2018 @ 15:55 | `1.2.2` |
 | Give-Gift-Aid | 05-30-2018 @ 03:47 | `1.1.3` |

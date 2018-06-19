@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 06-19-2018 @ 07:31 | `1.7.0` |
 | Give-Currency-Switcher | 06-06-2018 @ 21:05 | `1.2` |
 | Give-Razorpay | 06-05-2018 @ 19:24 | `1.1.4` |
 | Give-Fee-Recovery | 06-05-2018 @ 19:04 | `1.6.1` |

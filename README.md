@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Donation-Upsells-WooCommerce | 06-26-2018 @ 05:38 | `1.0.0` |
 | Give-Currency-Switcher | 06-19-2018 @ 07:44 | `1.2.1` |
 | Give-Fee-Recovery | 06-19-2018 @ 07:31 | `1.7.0` |
 | Give-Currency-Switcher | 06-06-2018 @ 21:05 | `1.2` |

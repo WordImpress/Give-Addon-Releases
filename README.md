@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Recurring-Donations | 06-28-2018 @ 17:08 | `1.7.0` |
 | Give-Stripe | 06-28-2018 @ 17:03 | `2.0.6` |
 | Give-Stripe | 06-28-2018 @ 16:53 | `2.0.6` |
 | Give-Donation-Upsells-WooCommerce | 06-26-2018 @ 21:43 | `1.0.1` |

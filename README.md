@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Stripe | 06-28-2018 @ 16:53 | `2.0.6` |
 | Give-Donation-Upsells-WooCommerce | 06-26-2018 @ 21:43 | `1.0.1` |
 | Give-Donation-Upsells-WooCommerce | 06-26-2018 @ 05:38 | `1.0.0` |
 | Give-Currency-Switcher | 06-19-2018 @ 07:44 | `1.2.1` |

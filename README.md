@@ -3,16 +3,12 @@
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
 | Give-Donation-Upsells-WooCommerce | 07-06-2018 @ 05:54 | `1.0.2` |
-| Give-Donation-Upsells-WooCommerce | 07-06-2018 @ 05:46 | `1.0.2` |
 | Give-PayPal-Pro | 07-06-2018 @ 05:39 | `1.1.6` |
 | Give-Email-Reports | 07-06-2018 @ 05:30 | `1.1.2` |
 | Give-Stripe | 07-06-2018 @ 04:16 | `2.0.7` |
-| Give-Stripe | 07-06-2018 @ 04:09 | `2.0.7` |
 | Give-Recurring-Donations | 06-28-2018 @ 17:08 | `1.7.0` |
 | Give-Stripe | 06-28-2018 @ 17:03 | `2.0.6` |
-| Give-Stripe | 06-28-2018 @ 16:53 | `2.0.6` |
 | Give-Donation-Upsells-WooCommerce | 06-26-2018 @ 21:43 | `1.0.1` |
-| Give-Donation-Upsells-WooCommerce | 06-26-2018 @ 05:38 | `1.0.0` |
 | Give-Currency-Switcher | 06-19-2018 @ 07:44 | `1.2.1` |
 | Give-Fee-Recovery | 06-19-2018 @ 07:31 | `1.7.0` |
 | Give-Currency-Switcher | 06-06-2018 @ 21:05 | `1.2` |

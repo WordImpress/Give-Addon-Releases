@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Donation-Upsells-WooCommerce | 07-06-2018 @ 05:46 | `1.0.2` |
 | Give-PayPal-Pro | 07-06-2018 @ 05:39 | `1.1.6` |
 | Give-Email-Reports | 07-06-2018 @ 05:30 | `1.1.2` |
 | Give-Stripe | 07-06-2018 @ 04:16 | `2.0.7` |

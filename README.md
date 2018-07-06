@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Email-Reports | 07-06-2018 @ 05:30 | `1.1.2` |
 | Give-Stripe | 07-06-2018 @ 04:16 | `2.0.7` |
 | Give-Stripe | 07-06-2018 @ 04:09 | `2.0.7` |
 | Give-Recurring-Donations | 06-28-2018 @ 17:08 | `1.7.0` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Recurring-Donations | 07-06-2018 @ 16:13 | `1.7.1` |
 | Give-Manual-Donations | 07-06-2018 @ 06:54 | `1.4.1` |
 | Give-Gift-Aid | 07-06-2018 @ 06:45 | `1.1.4` |
 | Give-Donation-Upsells-WooCommerce | 07-06-2018 @ 05:54 | `1.0.2` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Google-Analytics | 07-26-2018 @ 23:36 | `1.2.0` |
 | Give-Gift-Aid | 07-24-2018 @ 22:38 | `1.1.5` |
 | Give-Tributes | 07-13-2018 @ 04:26 | `1.5.0` |
 | Give-Recurring-Donations | 07-06-2018 @ 16:13 | `1.7.1` |

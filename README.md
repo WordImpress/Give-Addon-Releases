@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Currency-Switcher | 07-30-2018 @ 23:53 | `1.2.2` |
 | Give-Stripe | 07-30-2018 @ 23:34 | `2.0.8` |
 | Give-Fee-Recovery | 07-30-2018 @ 23:27 | `1.7.1` |
 | Give-Gift-Aid | 07-30-2018 @ 23:20 | `1.1.6` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 07-30-2018 @ 23:27 | `1.7.1` |
 | Give-Gift-Aid | 07-30-2018 @ 23:20 | `1.1.6` |
 | Give-Google-Analytics | 07-26-2018 @ 23:36 | `1.2.0` |
 | Give-Gift-Aid | 07-24-2018 @ 22:38 | `1.1.5` |

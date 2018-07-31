@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Stripe | 07-31-2018 @ 07:10 | `2.0.9` |
 | Give-Recurring-Donations | 07-31-2018 @ 00:06 | `1.7.2` |
 | Give-Currency-Switcher | 07-30-2018 @ 23:53 | `1.2.2` |
 | Give-Stripe | 07-30-2018 @ 23:34 | `2.0.8` |

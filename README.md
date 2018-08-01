@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Stripe | 08-01-2018 @ 21:28 | `2.0.10` |
 | Give-Razorpay | 07-31-2018 @ 07:40 | `1.2.0` |
 | Give-Stripe | 07-31-2018 @ 07:10 | `2.0.9` |
 | Give-Recurring-Donations | 07-31-2018 @ 00:06 | `1.7.2` |

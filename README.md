@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Donation-Upsells-WooCommerce | 08-23-2018 @ 19:46 | `1.0.3` |
 | Give-CCAvenue | 08-02-2018 @ 20:46 | `1.0.2` |
 | Give-Stripe | 08-01-2018 @ 21:28 | `2.0.10` |
 | Give-Razorpay | 07-31-2018 @ 07:40 | `1.2.0` |

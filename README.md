@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-GoCardless | 08-31-2018 @ 19:45 | `1.2.1` |
 | Give-Google-Analytics | 08-31-2018 @ 19:24 | `1.2.1` |
 | Give-Mollie | 08-31-2018 @ 19:01 | `1.1.2` |
 | Give-Donation-Upsells-WooCommerce | 08-23-2018 @ 19:46 | `1.0.3` |

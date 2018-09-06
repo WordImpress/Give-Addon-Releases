@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Stripe | 09-06-2018 @ 21:06 | `2.1.0` |
 | Give-GoCardless | 08-31-2018 @ 19:45 | `1.2.1` |
 | Give-Google-Analytics | 08-31-2018 @ 19:24 | `1.2.1` |
 | Give-Mollie | 08-31-2018 @ 19:01 | `1.1.2` |

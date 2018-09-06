@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Recurring-Donations | 09-06-2018 @ 21:20 | `1.8.0` |
 | Give-Stripe | 09-06-2018 @ 21:06 | `2.1.0` |
 | Give-GoCardless | 08-31-2018 @ 19:45 | `1.2.1` |
 | Give-Google-Analytics | 08-31-2018 @ 19:24 | `1.2.1` |

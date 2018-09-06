@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Fee-Recovery | 09-06-2018 @ 21:28 | `1.7.2` |
 | Give-Recurring-Donations | 09-06-2018 @ 21:20 | `1.8.0` |
 | Give-Stripe | 09-06-2018 @ 21:06 | `2.1.0` |
 | Give-GoCardless | 08-31-2018 @ 19:45 | `1.2.1` |

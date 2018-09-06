@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Authorize-Gateway | 09-06-2018 @ 21:42 | `1.4.3` |
 | Give-PayPal-Pro | 09-06-2018 @ 21:34 | `1.2.0` |
 | Give-Fee-Recovery | 09-06-2018 @ 21:28 | `1.7.2` |
 | Give-Recurring-Donations | 09-06-2018 @ 21:20 | `1.8.0` |

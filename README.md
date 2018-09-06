@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-PayPal-Pro | 09-06-2018 @ 21:34 | `1.2.0` |
 | Give-Fee-Recovery | 09-06-2018 @ 21:28 | `1.7.2` |
 | Give-Recurring-Donations | 09-06-2018 @ 21:20 | `1.8.0` |
 | Give-Stripe | 09-06-2018 @ 21:06 | `2.1.0` |

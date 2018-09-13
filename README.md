@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Paytm | 09-13-2018 @ 19:44 | `1.0.1` |
 | Give-PayUmoney | 09-07-2018 @ 20:36 | `1.0.2` |
 | Give-Authorize-Gateway | 09-06-2018 @ 21:42 | `1.4.3` |
 | Give-PayPal-Pro | 09-06-2018 @ 21:34 | `1.2.0` |

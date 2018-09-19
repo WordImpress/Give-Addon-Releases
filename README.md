@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Stripe | 09-19-2018 @ 18:51 | `2.1.1` |
 | Give-Paytm | 09-13-2018 @ 19:44 | `1.0.1` |
 | Give-PayUmoney | 09-07-2018 @ 20:36 | `1.0.2` |
 | Give-Authorize-Gateway | 09-06-2018 @ 21:42 | `1.4.3` |

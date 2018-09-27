@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| Give-Constant-Contact | 09-27-2018 @ 21:35 | `1.2.2` |
 | Give-Donation-Upsells-WooCommerce | 09-27-2018 @ 05:16 | `1.0.4` |
 | Give-2Checkout | 09-27-2018 @ 02:24 | `1.1.3` |
 | Give-2Checkout | 09-26-2018 @ 19:08 | `1.1.2` |

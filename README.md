@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 10-04-2018 @ 20:12 | `1.8.1` |
 | give-currency-switcher | 10-04-2018 @ 19:10 | `1.3.0` |
 | Give-Constant-Contact | 09-27-2018 @ 21:35 | `1.2.2` |
 | Give-Donation-Upsells-WooCommerce | 09-27-2018 @ 05:16 | `1.0.4` |

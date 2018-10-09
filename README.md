@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-form-field-manager | 10-09-2018 @ 05:17 | `1.4.0` |
 | give-americloud-payments | 10-04-2018 @ 22:06 | `1.3.1` |
 | give-recurring-donations | 10-04-2018 @ 20:12 | `1.8.1` |
 | give-currency-switcher | 10-04-2018 @ 19:10 | `1.3.0` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-manual-donations | 11-08-2018 @ 23:18 | `1.4.2` |
 | give-braintree-gateway | 11-08-2018 @ 22:57 | `1.2.3` |
 | give-recurring-donations | 11-08-2018 @ 21:51 | `1.8.2` |
 | give-stripe | 11-08-2018 @ 21:25 | `2.1.2` |

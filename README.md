@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 11-08-2018 @ 21:51 | `1.8.2` |
 | give-stripe | 11-08-2018 @ 21:25 | `2.1.2` |
 | give-google-analytics | 10-09-2018 @ 05:35 | `1.2.2` |
 | give-form-field-manager | 10-09-2018 @ 05:17 | `1.4.0` |

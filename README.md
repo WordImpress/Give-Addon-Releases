@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-braintree-gateway | 11-08-2018 @ 22:57 | `1.2.3` |
 | give-recurring-donations | 11-08-2018 @ 21:51 | `1.8.2` |
 | give-stripe | 11-08-2018 @ 21:25 | `2.1.2` |
 | give-google-analytics | 10-09-2018 @ 05:35 | `1.2.2` |

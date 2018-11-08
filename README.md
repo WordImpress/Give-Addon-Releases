@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-stripe | 11-08-2018 @ 21:25 | `2.1.2` |
 | give-google-analytics | 10-09-2018 @ 05:35 | `1.2.2` |
 | give-form-field-manager | 10-09-2018 @ 05:17 | `1.4.0` |
 | give-americloud-payments | 10-04-2018 @ 22:06 | `1.3.1` |

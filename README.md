@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-ccavenue | 11-13-2018 @ 22:20 | `1.0.3` |
 | give-pdf-receipts | 11-13-2018 @ 20:17 | `2.3.1` |
 | give-manual-donations | 11-08-2018 @ 23:18 | `1.4.2` |
 | give-braintree-gateway | 11-08-2018 @ 22:57 | `1.2.3` |

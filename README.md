@@ -3,7 +3,6 @@
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
 | give-form-field-manager | 11-20-2018 @ 21:26 | `1.4.1` |
-| give-form-field-manager | 11-20-2018 @ 21:15 | `1.4.1` |
 | give-paypal-pro | 11-20-2018 @ 00:50 | `1.2.1` |
 | give-mailchimp | 11-19-2018 @ 19:54 | `1.4.2` |
 | give-payumoney | 11-14-2018 @ 19:18 | `1.0.3` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-mailchimp | 12-04-2018 @ 23:35 | `1.4.3` |
 | give-tributes | 11-29-2018 @ 21:30 | `1.5.1` |
 | give-ccavenue | 11-29-2018 @ 20:24 | `1.0.4` |
 | give-form-field-manager | 11-20-2018 @ 21:26 | `1.4.1` |

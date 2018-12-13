@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 12-13-2018 @ 21:49 | `1.8.3` |
 | give-currency-switcher | 12-13-2018 @ 21:41 | `1.3.1` |
 | give-gift-aid | 12-13-2018 @ 21:33 | `1.2.0` |
 | give-tributes | 12-06-2018 @ 21:39 | `1.5.2` |

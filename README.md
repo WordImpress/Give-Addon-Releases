@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-currency-switcher | 12-13-2018 @ 21:41 | `1.3.1` |
 | give-gift-aid | 12-13-2018 @ 21:33 | `1.2.0` |
 | give-tributes | 12-06-2018 @ 21:39 | `1.5.2` |
 | give-mailchimp | 12-04-2018 @ 23:35 | `1.4.3` |

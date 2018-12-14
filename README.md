@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-pdf-receipts | 12-14-2018 @ 06:31 | `2.3.2` |
 | give-donation-upsells-woocommerce | 12-14-2018 @ 03:09 | `1.1.0` |
 | give-recurring-donations | 12-13-2018 @ 21:49 | `1.8.3` |
 | give-currency-switcher | 12-13-2018 @ 21:41 | `1.3.1` |

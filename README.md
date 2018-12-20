@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 12-20-2018 @ 03:34 | `1.7.3` |
 | give-razorpay | 12-14-2018 @ 06:57 | `1.2.1` |
 | give-pdf-receipts | 12-14-2018 @ 06:31 | `2.3.2` |
 | give-donation-upsells-woocommerce | 12-14-2018 @ 03:09 | `1.1.0` |

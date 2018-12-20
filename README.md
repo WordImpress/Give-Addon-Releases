@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-payumoney | 12-20-2018 @ 03:54 | `1.0.4` |
 | give-fee-recovery | 12-20-2018 @ 03:34 | `1.7.3` |
 | give-razorpay | 12-14-2018 @ 06:57 | `1.2.1` |
 | give-pdf-receipts | 12-14-2018 @ 06:31 | `2.3.2` |

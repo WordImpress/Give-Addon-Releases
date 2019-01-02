@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-americloud-payments | 01-02-2019 @ 21:35 | `1.3.2` |
 | give-americloud-payments | 01-02-2019 @ 21:33 | `1.3.2` |
 | give-payumoney | 12-20-2018 @ 03:54 | `1.0.4` |
 | give-fee-recovery | 12-20-2018 @ 03:34 | `1.7.3` |

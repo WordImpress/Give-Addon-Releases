@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-americloud-payments | 01-04-2019 @ 17:20 | `1.3.3` |
 | give-authorize-gateway | 01-04-2019 @ 04:07 | `1.4.4` |
 | give-americloud-payments | 01-02-2019 @ 21:35 | `1.3.2` |
 | give-payumoney | 12-20-2018 @ 03:54 | `1.0.4` |

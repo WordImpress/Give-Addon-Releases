@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-per-form-gateways | 01-11-2019 @ 22:39 | `1.0.2` |
 | give-authorize-gateway | 01-11-2019 @ 03:38 | `1.4.5` |
 | give-annual-receipts | 01-09-2019 @ 07:38 | `1.0.0` |
 | give-americloud-payments | 01-04-2019 @ 17:20 | `1.3.3` |

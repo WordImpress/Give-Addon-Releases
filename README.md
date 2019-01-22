@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 01-22-2019 @ 17:07 | `1.7.4` |
 | give-stripe | 01-22-2019 @ 16:37 | `2.1.3` |
 | give-mollie | 01-22-2019 @ 16:05 | `1.2.1` |
 | give-annual-receipts | 01-18-2019 @ 20:27 | `1.0.1` |

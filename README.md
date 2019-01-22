@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-mollie | 01-22-2019 @ 16:05 | `1.2.1` |
 | give-annual-receipts | 01-18-2019 @ 20:27 | `1.0.1` |
 | give-mollie | 01-18-2019 @ 03:43 | `1.2.0` |
 | give-per-form-gateways | 01-11-2019 @ 22:39 | `1.0.2` |

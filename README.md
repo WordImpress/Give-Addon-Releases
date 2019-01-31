@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 01-31-2019 @ 19:17 | `1.8.4` |
 | give-moneris | 01-24-2019 @ 06:26 | `1.0.0` |
 | give-square | 01-23-2019 @ 19:54 | `1.0.0` |
 | give-fee-recovery | 01-22-2019 @ 17:07 | `1.7.4` |

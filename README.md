@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-google-analytics | 02-01-2019 @ 20:18 | `1.2.3` |
 | give-square | 02-01-2019 @ 02:06 | `1.0.1` |
 | give-square | 02-01-2019 @ 02:00 | `1.0.1` |
 | give-recurring-donations | 01-31-2019 @ 19:17 | `1.8.4` |

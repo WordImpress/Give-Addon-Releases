@@ -3,9 +3,7 @@
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
 | give-google-analytics | 02-01-2019 @ 20:21 | `1.2.3` |
-| give-google-analytics | 02-01-2019 @ 20:18 | `1.2.3` |
 | give-square | 02-01-2019 @ 02:06 | `1.0.1` |
-| give-square | 02-01-2019 @ 02:00 | `1.0.1` |
 | give-recurring-donations | 01-31-2019 @ 19:17 | `1.8.4` |
 | give-moneris | 01-24-2019 @ 06:26 | `1.0.0` |
 | give-square | 01-23-2019 @ 19:54 | `1.0.0` |

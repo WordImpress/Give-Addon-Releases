@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-manual-donations | 02-20-2019 @ 22:52 | `1.4.3` |
 | give-paytm | 02-20-2019 @ 20:07 | `1.1.0` |
 | give-stripe | 02-13-2019 @ 21:31 | `2.1.4` |
 | give-recurring-donations | 02-08-2019 @ 04:00 | `1.8.5` |

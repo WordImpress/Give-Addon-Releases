@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 02-22-2019 @ 22:32 | `1.8.6` |
 | give-gift-aid | 02-22-2019 @ 19:35 | `1.2.1` |
 | give-pdf-receipts | 02-20-2019 @ 23:11 | `2.3.3` |
 | give-manual-donations | 02-20-2019 @ 22:52 | `1.4.3` |

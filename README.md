@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 02-26-2019 @ 20:26 | `1.8.7` |
 | give-square | 02-26-2019 @ 05:43 | `1.0.2` |
 | give-recurring-donations | 02-22-2019 @ 22:32 | `1.8.6` |
 | give-gift-aid | 02-22-2019 @ 19:35 | `1.2.1` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-authorize-gateway | 03-21-2019 @ 23:08 | `1.4.6` |
 | give-recurring-donations | 03-14-2019 @ 03:42 | `1.8.10` |
 | give-stripe | 03-14-2019 @ 03:30 | `2.1.6` |
 | give-recurring-donations | 03-06-2019 @ 18:38 | `1.8.9` |

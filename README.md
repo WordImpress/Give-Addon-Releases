@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 04-03-2019 @ 07:12 | `1.8.11` |
 | give-gocardless | 03-28-2019 @ 03:25 | `1.3.2` |
 | give-gocardless | 03-25-2019 @ 17:50 | `1.3.1` |
 | give-authorize-gateway | 03-21-2019 @ 23:08 | `1.4.6` |

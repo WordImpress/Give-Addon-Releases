@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-stripe | 04-11-2019 @ 16:53 | `2.1.7` |
 | give-mailchimp | 04-03-2019 @ 07:29 | `1.4.4` |
 | give-recurring-donations | 04-03-2019 @ 07:12 | `1.8.11` |
 | give-gocardless | 03-28-2019 @ 03:25 | `1.3.2` |

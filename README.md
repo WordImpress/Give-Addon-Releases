@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 04-17-2019 @ 18:43 | `1.8.12` |
 | give-zapier | 04-17-2019 @ 18:30 | `1.2.2` |
 | give-paymill | 04-17-2019 @ 07:58 | `1.1.0` |
 | give-donation-upsells-woocommerce | 04-12-2019 @ 19:34 | `1.1.1` |

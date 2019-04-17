@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-zapier | 04-17-2019 @ 18:30 | `1.2.2` |
 | give-paymill | 04-17-2019 @ 07:58 | `1.1.0` |
 | give-donation-upsells-woocommerce | 04-12-2019 @ 19:34 | `1.1.1` |
 | give-stripe | 04-12-2019 @ 17:55 | `2.1.8` |

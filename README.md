@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-annual-receipts | 05-08-2019 @ 07:24 | `1.0.2` |
 | give-recurring-donations | 04-30-2019 @ 20:11 | `1.8.13` |
 | give-form-field-manager | 04-24-2019 @ 18:59 | `1.4.3` |
 | give-braintree-gateway | 04-17-2019 @ 19:32 | `1.2.4` |

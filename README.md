@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 05-09-2019 @ 07:05 | `1.7.5` |
 | give-currency-switcher | 05-08-2019 @ 07:35 | `1.3.2` |
 | give-tributes | 05-08-2019 @ 07:28 | `1.5.3` |
 | give-annual-receipts | 05-08-2019 @ 07:24 | `1.0.2` |

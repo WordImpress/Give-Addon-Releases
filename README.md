@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-paypal-pro | 06-04-2019 @ 06:17 | `1.2.2` |
 | give-square | 06-04-2019 @ 06:05 | `1.0.3` |
 | give-mollie | 06-04-2019 @ 05:42 | `1.2.2` |
 | give-manual-donations | 05-09-2019 @ 22:54 | `1.4.4` |

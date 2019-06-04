@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-tributes | 06-04-2019 @ 18:38 | `1.5.4` |
 | give-google-analytics | 06-04-2019 @ 07:31 | `1.2.4` |
 | give-americloud-payments | 06-04-2019 @ 07:06 | `1.3.4` |
 | give-iats | 06-04-2019 @ 06:39 | `1.0.5` |

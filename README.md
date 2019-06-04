@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-americloud-payments | 06-04-2019 @ 07:06 | `1.3.4` |
 | give-iats | 06-04-2019 @ 06:39 | `1.0.5` |
 | give-2checkout | 06-04-2019 @ 06:27 | `1.1.4` |
 | give-paypal-pro | 06-04-2019 @ 06:17 | `1.2.2` |

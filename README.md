@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-email-reports | 06-06-2019 @ 07:38 | `1.1.3` |
 | give-manual-donations | 06-06-2019 @ 06:44 | `1.4.5` |
 | give-tributes | 06-04-2019 @ 18:38 | `1.5.4` |
 | give-google-analytics | 06-04-2019 @ 07:31 | `1.2.4` |

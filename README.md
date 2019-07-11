@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-stripe | 07-11-2019 @ 04:50 | `1.9.0` |
 | give-email-reports | 06-06-2019 @ 07:38 | `1.1.3` |
 | give-manual-donations | 06-06-2019 @ 06:44 | `1.4.5` |
 | give-tributes | 06-04-2019 @ 18:38 | `1.5.4` |

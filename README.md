@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-aweber | 07-11-2019 @ 06:52 | `1.0.4` |
 | give-convertkit | 07-11-2019 @ 06:40 | `1.0.3` |
 | give-constant-contact | 07-11-2019 @ 06:13 | `1.2.3` |
 | give-mollie | 07-11-2019 @ 06:03 | `1.2.3` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-gocardless | 07-11-2019 @ 07:09 | `1.3.3` |
 | give-aweber | 07-11-2019 @ 06:52 | `1.0.4` |
 | give-convertkit | 07-11-2019 @ 06:40 | `1.0.3` |
 | give-constant-contact | 07-11-2019 @ 06:13 | `1.2.3` |

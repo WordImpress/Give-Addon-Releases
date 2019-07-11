@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-convertkit | 07-11-2019 @ 06:40 | `1.0.3` |
 | give-constant-contact | 07-11-2019 @ 06:13 | `1.2.3` |
 | give-mollie | 07-11-2019 @ 06:03 | `1.2.3` |
 | give-pdf-receipts | 07-11-2019 @ 05:49 | `2.3.4` |

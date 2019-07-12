@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 07-12-2019 @ 23:36 | `1.9.1` |
 | give-donation-upsells-woocommerce | 07-12-2019 @ 22:49 | `1.1.2` |
 | give-gocardless | 07-11-2019 @ 07:09 | `1.3.3` |
 | give-aweber | 07-11-2019 @ 06:52 | `1.0.4` |

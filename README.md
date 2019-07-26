@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-gift-aid | 07-26-2019 @ 19:06 | `1.2.3` |
 | give-zapier | 07-25-2019 @ 22:34 | `1.2.3` |
 | give-recurring-donations | 07-12-2019 @ 23:36 | `1.9.1` |
 | give-donation-upsells-woocommerce | 07-12-2019 @ 22:49 | `1.1.2` |

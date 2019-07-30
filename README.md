@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-constant-contact | 07-30-2019 @ 06:05 | `1.2.4` |
 | give-email-reports | 07-30-2019 @ 05:14 | `1.1.4` |
 | give-form-field-manager | 07-30-2019 @ 04:28 | `1.4.4` |
 | give-square | 07-30-2019 @ 03:18 | `1.0.4` |

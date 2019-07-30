@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-email-reports | 07-30-2019 @ 05:14 | `1.1.4` |
 | give-form-field-manager | 07-30-2019 @ 04:28 | `1.4.4` |
 | give-square | 07-30-2019 @ 03:18 | `1.0.4` |
 | give-gocardless | 07-29-2019 @ 17:38 | `1.3.4` |

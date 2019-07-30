@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-form-field-manager | 07-30-2019 @ 04:28 | `1.4.4` |
 | give-square | 07-30-2019 @ 03:18 | `1.0.4` |
 | give-gocardless | 07-29-2019 @ 17:38 | `1.3.4` |
 | give-gift-aid | 07-26-2019 @ 19:06 | `1.2.3` |

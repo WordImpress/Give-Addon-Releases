@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 09-20-2019 @ 00:35 | `1.9.4` |
 | give-recurring-donations | 08-20-2019 @ 16:42 | `1.9.3` |
 | give-currency-switcher | 08-08-2019 @ 05:29 | `1.3.3` |
 | give-recurring-donations | 07-31-2019 @ 07:08 | `1.9.2` |

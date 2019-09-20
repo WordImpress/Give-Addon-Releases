@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring-donations | 09-20-2019 @ 04:08 | `1.9.4` |
 | give-stripe | 09-20-2019 @ 00:46 | `1.9.1` |
 | give-recurring-donations | 09-20-2019 @ 00:35 | `1.9.4` |
 | give-recurring-donations | 08-20-2019 @ 16:42 | `1.9.3` |

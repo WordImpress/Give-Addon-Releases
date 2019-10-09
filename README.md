@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-donation-upsells-woocommerce | 10-09-2019 @ 02:54 | `1.1.4` |
 | give-stripe | 09-27-2019 @ 03:52 | `2.2.2` |
 | give-donation-upsells-woocommerce | 09-27-2019 @ 03:31 | `1.1.3` |
 | give-recurring-donations | 09-20-2019 @ 04:08 | `1.9.4` |

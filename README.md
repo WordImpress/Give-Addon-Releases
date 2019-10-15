@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 10-15-2019 @ 21:28 | `1.7.6` |
 | give-donation-upsells-woocommerce | 10-09-2019 @ 02:54 | `1.1.4` |
 | give-stripe | 09-27-2019 @ 03:52 | `2.2.2` |
 | give-donation-upsells-woocommerce | 09-27-2019 @ 03:31 | `1.1.3` |

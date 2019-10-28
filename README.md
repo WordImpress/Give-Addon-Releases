@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-currency-switcher | 10-28-2019 @ 23:47 | `1.3.4` |
 | give-fee-recovery | 10-28-2019 @ 23:29 | `1.7.7` |
 | give-pdf-receipts | 10-28-2019 @ 23:22 | `2.3.5` |
 | givewp-recurring | 10-28-2019 @ 23:07 | `1.9.5` |

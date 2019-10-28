@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| givewp-recurring | 10-28-2019 @ 23:07 | `1.9.5` |
 | give-payumoney | 10-15-2019 @ 21:39 | `1.0.5` |
 | give-fee-recovery | 10-15-2019 @ 21:28 | `1.7.6` |
 | give-donation-upsells-woocommerce | 10-09-2019 @ 02:54 | `1.1.4` |

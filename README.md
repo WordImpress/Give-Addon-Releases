@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 10-28-2019 @ 23:29 | `1.7.7` |
 | give-pdf-receipts | 10-28-2019 @ 23:22 | `2.3.5` |
 | givewp-recurring | 10-28-2019 @ 23:07 | `1.9.5` |
 | give-payumoney | 10-15-2019 @ 21:39 | `1.0.5` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-currency-switcher | 11-15-2019 @ 21:46 | `1.3.5` |
 | give-currency-switcher | 11-15-2019 @ 21:41 | `1.3.5` |
 | give-razorpay | 11-15-2019 @ 20:29 | `1.3.0` |
 | givewp-recurring | 11-15-2019 @ 20:03 | `1.9.6` |

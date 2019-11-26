@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-tributes | 11-26-2019 @ 23:14 | `1.5.5` |
 | give-pdf-receipts | 11-26-2019 @ 21:34 | `2.3.6` |
 | give-currency-switcher | 11-15-2019 @ 21:46 | `1.3.5` |
 | give-currency-switcher | 11-15-2019 @ 21:41 | `1.3.5` |

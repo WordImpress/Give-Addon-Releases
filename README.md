@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-mailchimp | 12-06-2019 @ 06:54 | `1.4.5` |
 | give-gocardless | 12-06-2019 @ 06:41 | `1.3.5` |
 | give-recurring | 12-06-2019 @ 02:59 | `1.9.7` |
 | give-tributes | 11-26-2019 @ 23:14 | `1.5.5` |

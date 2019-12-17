@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-donation-upsells-woocommerce | 12-17-2019 @ 01:13 | `1.1.5` |
 | give-donation-upsells-woocommerce | 12-17-2019 @ 01:06 | `1.1.5` |
 | give-tributes | 12-10-2019 @ 20:17 | `1.5.6` |
 | give-mailchimp | 12-06-2019 @ 06:54 | `1.4.5` |

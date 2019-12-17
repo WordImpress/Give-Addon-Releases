@@ -3,7 +3,6 @@
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
 | give-donation-upsells-woocommerce | 12-17-2019 @ 01:13 | `1.1.5` |
-| give-donation-upsells-woocommerce | 12-17-2019 @ 01:06 | `1.1.5` |
 | give-tributes | 12-10-2019 @ 20:17 | `1.5.6` |
 | give-mailchimp | 12-06-2019 @ 06:54 | `1.4.5` |
 | give-gocardless | 12-06-2019 @ 06:41 | `1.3.5` |
@@ -11,7 +10,6 @@
 | give-tributes | 11-26-2019 @ 23:14 | `1.5.5` |
 | give-pdf-receipts | 11-26-2019 @ 21:34 | `2.3.6` |
 | give-currency-switcher | 11-15-2019 @ 21:46 | `1.3.5` |
-| give-currency-switcher | 11-15-2019 @ 21:41 | `1.3.5` |
 | give-razorpay | 11-15-2019 @ 20:29 | `1.3.0` |
 | givewp-recurring | 11-15-2019 @ 20:03 | `1.9.6` |
 | give-currency-switcher | 10-28-2019 @ 23:47 | `1.3.4` |
@@ -25,7 +23,6 @@
 | give-donation-upsells-woocommerce | 09-27-2019 @ 03:31 | `1.1.3` |
 | give-recurring-donations | 09-20-2019 @ 04:08 | `1.9.4` |
 | give-stripe | 09-20-2019 @ 00:46 | `1.9.1` |
-| give-recurring-donations | 09-20-2019 @ 00:35 | `1.9.4` |
 | give-recurring-donations | 08-20-2019 @ 16:42 | `1.9.3` |
 | give-currency-switcher | 08-08-2019 @ 05:29 | `1.3.3` |
 | give-recurring-donations | 07-31-2019 @ 07:08 | `1.9.2` |

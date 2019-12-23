@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-razorpay | 12-23-2019 @ 22:43 | `1.3.1` |
 | give-recurring | 12-19-2019 @ 06:51 | `1.9.8` |
 | give-recurring | 12-19-2019 @ 06:47 | `1.9.8` |
 | give-donation-upsells-woocommerce | 12-17-2019 @ 01:13 | `1.1.5` |

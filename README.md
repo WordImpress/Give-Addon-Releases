@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-manual-donations | 01-15-2020 @ 20:47 | `1.4.6` |
 | give-recurring | 01-15-2020 @ 20:34 | `1.9.9` |
 | give-currency-switcher | 01-15-2020 @ 20:01 | `1.3.6` |
 | give-razorpay | 12-23-2019 @ 22:43 | `1.3.1` |

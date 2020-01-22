@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring | 01-22-2020 @ 21:53 | `1.9.10` |
 | give-recurring | 01-22-2020 @ 21:48 | `1.9.10` |
 | give-manual-donations | 01-15-2020 @ 20:47 | `1.4.6` |
 | give-recurring | 01-15-2020 @ 20:34 | `1.9.9` |

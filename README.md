@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-square | 02-27-2020 @ 21:21 | `1.1.0` |
 | give-recurring | 02-20-2020 @ 21:56 | `1.9.12` |
 | give-razorpay | 02-20-2020 @ 21:45 | `1.4.0` |
 | give-currency-switcher | 02-20-2020 @ 18:47 | `1.3.7` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 03-10-2020 @ 19:29 | `1.7.8` |
 | give-recurring | 03-05-2020 @ 00:49 | `1.9.13` |
 | give-stripe | 03-05-2020 @ 00:19 | `2.2.3` |
 | give-razorpay | 02-27-2020 @ 21:59 | `1.4.1` |

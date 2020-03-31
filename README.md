@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring | 03-31-2020 @ 00:32 | `1.10.0` |
 | give-square | 03-18-2020 @ 18:44 | `1.1.1` |
 | give-recurring | 03-18-2020 @ 00:17 | `1.9.14` |
 | give-fee-recovery | 03-10-2020 @ 19:29 | `1.7.8` |

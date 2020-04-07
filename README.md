@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-donation-upsells-woocommerce | 04-07-2020 @ 23:29 | `1.1.6` |
 | give-mailchimp | 04-02-2020 @ 19:54 | `1.4.6` |
 | give-stripe | 04-01-2020 @ 19:07 | `2.2.5` |
 | give-stripe | 03-31-2020 @ 00:37 | `2.2.4` |

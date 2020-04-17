@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-razorpay | 04-17-2020 @ 04:56 | `1.4.2` |
 | give-donation-upsells-woocommerce | 04-07-2020 @ 23:29 | `1.1.6` |
 | give-mailchimp | 04-02-2020 @ 19:54 | `1.4.6` |
 | give-stripe | 04-01-2020 @ 19:07 | `2.2.5` |

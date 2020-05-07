@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-constant-contact | 05-07-2020 @ 21:53 | `1.2.5` |
 | give-payumoney | 05-07-2020 @ 16:59 | `1.0.6` |
 | give-recurring | 05-06-2020 @ 23:06 | `1.10.2` |
 | give-recurring | 04-17-2020 @ 22:05 | `1.10.1` |

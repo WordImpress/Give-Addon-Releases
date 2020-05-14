@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-form-field-manager | 05-14-2020 @ 19:14 | `1.4.5` |
 | give-constant-contact | 05-07-2020 @ 21:53 | `1.2.5` |
 | give-payumoney | 05-07-2020 @ 16:59 | `1.0.6` |
 | give-recurring | 05-06-2020 @ 23:06 | `1.10.2` |

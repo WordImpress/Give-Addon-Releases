@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-form-field-manager | 06-05-2020 @ 17:39 | `1.4.6` |
 | give-pdf-receipts | 05-27-2020 @ 22:55 | `2.3.7` |
 | give-moneris | 05-20-2020 @ 04:42 | `1.0.1` |
 | give-form-field-manager | 05-14-2020 @ 19:14 | `1.4.5` |

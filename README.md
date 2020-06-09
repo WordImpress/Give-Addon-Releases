@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-pdf-receipts | 06-09-2020 @ 19:43 | `2.3.8` |
 | give-razorpay | 06-05-2020 @ 17:55 | `1.4.3` |
 | give-form-field-manager | 06-05-2020 @ 17:39 | `1.4.6` |
 | give-pdf-receipts | 05-27-2020 @ 22:55 | `2.3.7` |

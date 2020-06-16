@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-tributes | 06-16-2020 @ 16:11 | `1.5.7` |
 | give-pdf-receipts | 06-16-2020 @ 16:04 | `2.3.9` |
 | give-gift-aid | 06-16-2020 @ 15:57 | `1.2.4` |
 | give-google-analytics | 06-16-2020 @ 15:46 | `1.2.5` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-google-analytics | 06-16-2020 @ 15:46 | `1.2.5` |
 | give-paymill | 06-16-2020 @ 15:35 | `1.1.1` |
 | give-razorpay | 06-16-2020 @ 15:26 | `1.4.4` |
 | give-pdf-receipts | 06-09-2020 @ 19:43 | `2.3.8` |

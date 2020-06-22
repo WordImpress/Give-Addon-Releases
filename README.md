@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 06-22-2020 @ 17:38 | `1.7.11` |
 | give-fee-recovery | 06-17-2020 @ 21:24 | `1.7.10` |
 | give-currency-switcher | 06-17-2020 @ 19:11 | `1.3.9` |
 | give-currency-switcher | 06-16-2020 @ 18:55 | `1.3.8` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-stripe | 06-30-2020 @ 01:58 | `2.2.6` |
 | give-fee-recovery | 06-22-2020 @ 17:46 | `1.7.11` |
 | give-fee-recovery | 06-22-2020 @ 17:38 | `1.7.11` |
 | give-fee-recovery | 06-17-2020 @ 21:24 | `1.7.10` |

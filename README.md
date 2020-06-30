@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-currency-switcher | 06-30-2020 @ 05:55 | `1.3.10` |
 | give-recurring | 06-30-2020 @ 02:13 | `1.10.3` |
 | give-stripe | 06-30-2020 @ 01:58 | `2.2.6` |
 | give-fee-recovery | 06-22-2020 @ 17:46 | `1.7.11` |

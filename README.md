@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-pdf-receipts | 06-30-2020 @ 19:20 | `2.3.10` |
 | give-currency-switcher | 06-30-2020 @ 19:09 | `1.3.11` |
 | give-currency-switcher | 06-30-2020 @ 05:55 | `1.3.10` |
 | give-recurring | 06-30-2020 @ 02:13 | `1.10.3` |

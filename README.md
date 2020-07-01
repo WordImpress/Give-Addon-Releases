@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-gocardless | 07-01-2020 @ 18:05 | `1.3.6` |
 | give-recurring | 07-01-2020 @ 17:55 | `1.10.4` |
 | give-currency-switcher | 07-01-2020 @ 16:19 | `1.3.11` |
 | give-stripe | 06-30-2020 @ 19:39 | `2.2.7` |

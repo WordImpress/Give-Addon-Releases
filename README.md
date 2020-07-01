@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-currency-switcher | 07-01-2020 @ 16:19 | `1.3.11` |
 | give-stripe | 06-30-2020 @ 19:39 | `2.2.7` |
 | give-pdf-receipts | 06-30-2020 @ 19:20 | `2.3.10` |
 | give-currency-switcher | 06-30-2020 @ 19:09 | `1.3.11` |

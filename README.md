@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-fee-recovery | 08-11-2020 @ 21:18 | `1.8.0` |
 | give-recurring | 07-17-2020 @ 00:10 | `1.10.6` |
 | give-recurring | 07-16-2020 @ 17:19 | `1.10.5` |
 | give-form-field-manager | 07-03-2020 @ 16:52 | `1.4.7` |

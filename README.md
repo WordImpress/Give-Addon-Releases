@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-activecampaign | 08-12-2020 @ 03:03 | `1.0.0` |
 | give-stripe | 08-11-2020 @ 22:16 | `2.2.9` |
 | give-fee-recovery | 08-11-2020 @ 21:18 | `1.8.0` |
 | give-recurring | 07-17-2020 @ 00:10 | `1.10.6` |

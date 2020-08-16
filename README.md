@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-gift-aid | 08-16-2020 @ 17:22 | `1.2.5` |
 | give-tributes | 08-15-2020 @ 01:12 | `1.5.8` |
 | give-activecampaign | 08-12-2020 @ 03:03 | `1.0.0` |
 | give-stripe | 08-11-2020 @ 22:16 | `2.2.9` |

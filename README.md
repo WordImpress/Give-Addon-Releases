@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-stripe | 09-01-2020 @ 19:51 | `2.2.12` |
 | give-manual-donations | 08-25-2020 @ 18:46 | `1.4.7` |
 | give-recurring | 08-25-2020 @ 04:28 | `1.10.7` |
 | give-stripe | 08-25-2020 @ 04:18 | `2.2.11` |

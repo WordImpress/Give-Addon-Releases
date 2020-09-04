@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-form-field-manager | 09-04-2020 @ 18:55 | `1.4.9` |
 | give-stripe | 09-01-2020 @ 19:51 | `2.2.12` |
 | give-manual-donations | 08-25-2020 @ 18:46 | `1.4.7` |
 | give-recurring | 08-25-2020 @ 04:28 | `1.10.7` |

@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-pdf-receipts | 09-17-2020 @ 03:47 | `2.3.11` |
 | give-zapier | 09-17-2020 @ 03:40 | `1.3.1` |
 | give-form-field-manager | 09-04-2020 @ 18:55 | `1.4.9` |
 | give-stripe | 09-01-2020 @ 19:51 | `2.2.12` |

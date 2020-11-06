@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-funds | 11-06-2020 @ 17:48 | `1.0.1` |
 | give-annual-receipts | 11-06-2020 @ 17:38 | `1.0.3` |
 | give-activecampaign | 11-06-2020 @ 17:21 | `1.0.1` |
 | give-pdf-receipts | 09-17-2020 @ 03:47 | `2.3.11` |

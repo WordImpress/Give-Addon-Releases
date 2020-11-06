@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-activecampaign | 11-06-2020 @ 17:21 | `1.0.1` |
 | give-pdf-receipts | 09-17-2020 @ 03:47 | `2.3.11` |
 | give-zapier | 09-17-2020 @ 03:40 | `1.3.1` |
 | give-form-field-manager | 09-04-2020 @ 18:55 | `1.4.9` |

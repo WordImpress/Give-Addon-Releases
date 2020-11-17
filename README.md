@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-currency-switcher | 11-17-2020 @ 02:49 | `1.3.13` |
 | give-recurring | 11-13-2020 @ 23:33 | `1.11.1` |
 | give-funds | 11-06-2020 @ 18:04 | `1.0.1` |
 | give-funds | 11-06-2020 @ 17:48 | `1.0.1` |

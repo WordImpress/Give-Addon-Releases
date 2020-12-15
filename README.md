@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-stripe | 12-15-2020 @ 02:06 | `2.2.13` |
 | give-recurring | 12-03-2020 @ 22:39 | `1.11.2` |
 | give-currency-switcher | 11-17-2020 @ 02:49 | `1.3.13` |
 | give-recurring | 11-13-2020 @ 23:33 | `1.11.1` |

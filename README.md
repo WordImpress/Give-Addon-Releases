@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-gift-aid | 01-14-2021 @ 03:37 | `1.2.6` |
 | give-form-field-manager | 01-14-2021 @ 03:26 | `1.5.0` |
 | give-recurring | 01-13-2021 @ 23:31 | `1.11.3` |
 | give-zapier | 01-07-2021 @ 20:18 | `1.3.2` |

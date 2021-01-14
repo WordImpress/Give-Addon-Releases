@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring | 01-14-2021 @ 18:41 | `1.11.4` |
 | give-stripe | 01-14-2021 @ 03:46 | `2.2.14` |
 | give-gift-aid | 01-14-2021 @ 03:37 | `1.2.6` |
 | give-form-field-manager | 01-14-2021 @ 03:26 | `1.5.0` |

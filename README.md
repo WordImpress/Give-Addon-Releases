@@ -2,6 +2,7 @@
 
 | Add-on   |      Release Date |  Version |
 |:----------|:-------------:|------:|
+| give-recurring | 03-24-2021 @ 20:53 | `1.12.0` |
 | give-annual-receipts | 03-24-2021 @ 19:35 | `1.1.0` |
 | give-recurring | 02-09-2021 @ 17:49 | `1.11.6` |
 | give-recurring | 02-01-2021 @ 17:47 | `1.11.5` |
